@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\VICTUS\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="92a4f9da-b44e-4a72-87c9-a000b1255dfb" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Alien_invansion)" project-jdk-type="Python SDK" />
+</project>
